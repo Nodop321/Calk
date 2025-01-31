@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\bin\Debug\Калькулятор ттк FGM(28.01.25).exe.config
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\bin\Debug\Калькулятор ттк FGM(28.01.25).exe
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\bin\Debug\Калькулятор ттк FGM(28.01.25).pdb
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\obj\Debug\Калькулятор ттк FGM(28.01.25).csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\obj\Debug\Калькулятор_ттк_FGM_28._01._25_.Form1.resources
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\obj\Debug\Калькулятор_ттк_FGM_28._01._25_.Properties.Resources.resources
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\obj\Debug\Калькулятор ттк FGM(28.01.25).csproj.GenerateResource.cache
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\obj\Debug\Калькулятор ттк FGM(28.01.25).csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\obj\Debug\Калькулятор ттк FGM(28.01.25).exe
+C:\Users\user\source\repos\Калькулятор ттк FGM(28.01.25)\Калькулятор ттк FGM(28.01.25)\obj\Debug\Калькулятор ттк FGM(28.01.25).pdb
